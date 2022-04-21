@@ -1,0 +1,31 @@
+{
+  "status": "done",
+  "assets": {
+    "js/index.js": {
+      "name": "js/index.js",
+      "path": "/Users/corner/workzone/instagram/dist/js/index.js",
+      "publicPath": "/js/index.js"
+    },
+    "js/about.js": {
+      "name": "js/about.js",
+      "path": "/Users/corner/workzone/instagram/dist/js/about.js",
+      "publicPath": "/js/about.js"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "/Users/corner/workzone/instagram/dist/favicon.ico",
+      "publicPath": "/favicon.ico"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "/Users/corner/workzone/instagram/dist/index.html",
+      "publicPath": "/index.html"
+    }
+  },
+  "chunks": {
+    "index": [
+      "js/index.js"
+    ]
+  },
+  "publicPath": "/"
+}
