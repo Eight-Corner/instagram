@@ -1,3 +1,24 @@
-# 📱Instagram
+# instagram
 
-[해당 프로젝트 참조 포스팅](https://velog.io/@corner3499/series/django)
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
